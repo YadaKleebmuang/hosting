@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "name": "Videos",
+      "items": [
+        {
+          "title": "My First Video",
+          "sources": [
+            "https://yadakleebmuang.github.io/hosting/Work.mp4"
+          ],
+          "thumb": "https://yadakleebmuang.github.io/hosting/character-1.png", 
+          "subtitle": "Uploaded by Yada",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "name": "Images",
+      "items": [
+        {
+          "title": "Example Image",
+          "description": "This is an image stored in the repo.",
+          "sources": [
+            "https://yadakleebmuang.github.io/video-host/image/Image-1.png"
+          ],
+          "thumb": "https://yadakleebmuang.github.io/video-host/image/Image-1.png",
+          "subtitle": "Uploaded by Yada",
+          "type": "image"
+        }
+      ]
+    }
+  ]
+}
