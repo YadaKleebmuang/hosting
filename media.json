@@ -18,15 +18,37 @@
       "name": "Images",
       "items": [
         {
-          "title": "Example Image",
-          "description": "This is an image stored in the repo.",
+          "title": "Cleanliness",
           "sources": [
-            "https://yadakleebmuang.github.io/video-host/image/Image-1.png"
+            "https://yadakleebmuang.github.io/hosting/Cleanliness.png"
           ],
-          "thumb": "https://yadakleebmuang.github.io/video-host/image/Image-1.png",
           "subtitle": "Uploaded by Yada",
           "type": "image"
-        }
+        },
+        {
+          "title": "Exercise",
+          "sources": [
+            "https://yadakleebmuang.github.io/hosting/Exercise.png"
+          ],
+          "subtitle": "Uploaded by Yada",
+          "type": "image"
+        },
+        {
+          "title": "Exercise1",
+          "sources": [
+            "https://yadakleebmuang.github.io/hosting/Exercise1.png"
+          ],
+          "subtitle": "Uploaded by Yada",
+          "type": "image"
+        },
+        {
+          "title": "Skincare",
+          "sources": [
+            "https://yadakleebmuang.github.io/hosting/Skincare.png"
+          ],
+          "subtitle": "Uploaded by Yada",
+          "type": "image"
+        },
       ]
     }
   ]
