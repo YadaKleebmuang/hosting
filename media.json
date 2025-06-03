@@ -11,6 +11,15 @@
           "thumb": "https://yadakleebmuang.github.io/hosting/character-1.png", 
           "subtitle": "Uploaded by Yada",
           "type": "video"
+        },
+        {
+          "title": "My Second Video",
+          "sources": [
+            "https://yadakleebmuang.github.io/hosting/first.mp4"
+          ],
+          "thumb": "https://yadakleebmuang.github.io/hosting/character-1.png", 
+          "subtitle": "Uploaded by Yada",
+          "type": "video"
         }
       ]
     },
